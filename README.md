@@ -113,10 +113,6 @@ CyNews/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Stay informed. Stay secure. CYNews.
@@ -161,3 +157,7 @@ theme: {
 ## Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
+## Pictures
+<img width="2418" height="1302" alt="Cybernews-project" src="https://github.com/user-attachments/assets/d591b3fc-2cf9-42a7-860f-e46a323e7ed3" />
+
